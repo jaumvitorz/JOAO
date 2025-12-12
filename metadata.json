@@ -1,0 +1,5 @@
+{
+  "name": "SENAI Course Catalog",
+  "description": "A modern, AI-powered course catalog for SENAI that extracts data from weekly PDF schedules and displays them in an interactive, responsive interface.",
+  "requestFramePermissions": []
+}
